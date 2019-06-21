@@ -1,0 +1,64 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(153): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(154): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(155): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(161): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(162): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(163): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(169): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(170): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(171): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(177): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(178): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(179): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(200): warning C4018: '<': signed/unsigned mismatch
+d:\profiles\njp2424\desktop\physics\level9\physics-sphere-mtv-decoupling-mastervs2019\sphere_mtvanddecoupling\main.cpp(522): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Sphere_MTVAndDecoupling.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level9\physics-sphere-MTV-Decoupling-masterVS2019\Sphere_MTVAndDecoupling\Debug\Sphere_MTVAndDecoupling.exe
